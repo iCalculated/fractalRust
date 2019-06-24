@@ -1,0 +1,12 @@
+[package]
+name = "fractal"
+version = "0.1.0"
+authors = ["iCalculated <fufa0001@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+threadpool = "1.7.1"
+num = "0.2.0"
+num_cpus = "1.10.0"
+image = "0.21.1"
+error-chain = "0.12.1"
